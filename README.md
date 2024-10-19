@@ -9,9 +9,9 @@ Written by nnnn2cat
  
  This version outputs PNG files.
 
-==========================
-USAGE wqv_monochrome (WQV-1, WQV-2) (adapted from original instructions)
-==========================
+
+**Using wqv_monochrome (WQV-1, WQV-2)** - (adapted from original instructions)
+
 1. Extract this archive somewhere. 
 
 2. Install Python if you don't have it already. This fork was tested with Python 3.12.
