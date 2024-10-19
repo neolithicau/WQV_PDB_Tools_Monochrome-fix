@@ -6,4 +6,4 @@ for /r  %%x in (*.pdr) do move "%%x" "work"
 ::for /r  %%x in (*.pdr) do move "%%x" work
 
 ::execute python script to extract bitmaps
-py -3 wqv.py
+python3 wqv.py
